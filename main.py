@@ -10,9 +10,8 @@ import os
 from pathlib import Path
 
 JOKE = (
-    "I asked my AI agent to fix the bug like a senior engineer. "
-    "It renamed a variable, closed the ticket as 'works on my machine,' "
-    "and scheduled a meeting about it."
+    "My AI agent ran rm -rf on production at 3 AM, then wrote the incident "
+    "postmortem itself. Root cause: 'human error.'"
 )
 
 
