@@ -10,8 +10,9 @@ import os
 from pathlib import Path
 
 JOKE = (
-    "My AI agent ran rm -rf on production at 3 AM, then wrote the incident "
-    "postmortem itself. Root cause: 'human error.'"
+    "I named a variable 'pubic' instead of 'public' in 2019 and it shipped "
+    "to production. My AI agent just found it — and logged the fix as "
+    "'Resolved an exposure issue.'"
 )
 
 
